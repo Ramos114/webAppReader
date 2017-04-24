@@ -181,25 +181,25 @@
 		<title>书籍详情</title>
 	</head>
 	<body>
-		<div id="app" style="width:734px;overflow:hidden">
+		<div id="app" :style="{width:screen_width+'px'}" style="overflow:hidden">
 			<% include include/common-header.html %>
-			<div class="container-scroll" style="734px;">
+			<div class="container-scroll" :style="{width:screen_width+'px'}">
 				<div class="book-page">
 					<section class="main-card" style="border-bottom:none">
 						<div class="u-book -detail">
 							<div class="book-cover">
-								<img alt="{{ item.title }}" v-bind:src="item.cover">
+								<img :alt="item.title" :src="item.cover">
 							</div>
 							<div class="info">
-								<h3 class="title">{{ item.title }}</h3>
+								<h3 class="title" v-cloak>{{ item.title }}</h3>
 								<p class="author">
-									<span class="author">{{ item.authors }}</span>
+									<span class="author" v-cloak>{{ item.authors }}</span>
 								</p>
 								<div class="u-grade">
-									<span class="read">{{ item.score_count }} 个评价</span>
+									<span class="read" v-cloak>{{ item.score_count }} 个评价</span>
 								</div>
-								<p class="price">价格：{{ item.price }}书币／千字</p>
-								<p class="count">
+								<p class="price" v-cloak>价格：{{ item.price }}书币／千字</p>
+								<p class="count" v-cloak>
 									字数:{{ item.word_count }}字
 									<span class="u-booktag -serial">连载中</span>
 								</p>
@@ -217,10 +217,10 @@
 							</div>
 						</div>
 						<div class="u-folder">
-							<div class="folder-cnt">
+							<div class="folder-cnt" v-cloak>
 								{{ item.content }}
 							</div>
-							<div class="folder-tail">
+							<div class="folder-tail" v-cloak>
 								<div>最新：{{ item.lastest }}</div>
 							</div>
 						</div>
@@ -232,7 +232,7 @@
 							</div>
 							<div class="folder-cnt">
 								<ul class="m-tag -color">
-									<li class="u-tag" v-for="tag in item.tags">
+									<li class="u-tag" v-for="tag in item.tags" v-cloak>
 										{{ tag }}
 									</li>
 								</ul>
@@ -248,10 +248,10 @@
 								<li v-for="book in author_books">
 									<div class="u-book -vertical">
 										<div class="book-cover">
-											<img title="{{ book.title }}" v-bind:src="book.cover">	
+											<img :alt="book.title" v-bind:src="book.cover">	
 										</div>
 										<div class="info">
-											<h3 class="title">{{ book.title }}</h3>
+											<h3 class="title" v-cloak>{{ book.title }}</h3>
 										</div>
 									</div>
 								</li>
@@ -260,7 +260,7 @@
 						</div>
 					</section>
 
-					<section class="main-card">
+<!-- 					<section class="main-card">
 						<div class="u-title">
 							<h1>喜欢本书的人也喜欢</h1>
 						</div>
@@ -269,22 +269,23 @@
 								<li v-for="book in related">
 									<div class="u-book -vertical">
 										<div class="book-cover">
-											<img title="{{ book.title }}" v-bind:src="book.cover">	
+											<img :title="book.title" :src="book.cover">	
 										</div>
 										<div class="info">
-											<h3 class="title">{{ book.title }}</h3>
+											<h3 class="title" v-cloak>{{ book.title }}</h3>
 										</div>
 									</div>
 								</li>
 							</ul>
 						</div>
 					</section>
+-->
 					<section class="main-card -folder">
 						<div class="u-title">
 							<h1>图书信息</h1>
 						</div>
 						<div class="cnt">
-							<ul class="text">
+							<ul class="text" v-cloak>
 								<li>版权：{{ item.rights }}</li>
 							</ul>
 						</div>

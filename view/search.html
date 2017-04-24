@@ -9,12 +9,12 @@
 <body>
 	<div id="root">
 		<div class="Swipe Swipe_full Destructor">
-			<div style="width: 734px; transition-duration: 0s; transform: translate3d(0px, 0px, 0px);">
-				<div style="width: 734px;">
+			<div :style="{width:screen_width+'px',transform:'translate3d('+position+'px,0px,0px)'}" style=" transition-duration: 0s; ">
+				<div :style="{width:screen_width+'px'}">
 					<% include include/common-header.html %>
 					<div class="Swipe Swipe_full container-scroll Destructor">
-						<div style="width: 1468px; transition-duration: 0s; transform: translate3d(0px, 0px, 0px);">
-							<div style="width: 734px;" id="app_search">
+						<div :style="{width:double_screen_width+'px',transform:'translate3d('+position+'px,0px,0px)'}" style=" transition-duration: 0s; ">
+							<div :style="{width:screen_width+'px'}" id="app_search">
 								<div class="search">
 									<div class="top">
 										<a href="javascript:history.back()" class="top__back"></a>

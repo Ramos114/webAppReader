@@ -440,3 +440,8 @@
 .book-table li>* {
     display: inline-block;
 }
+
+/*使用 v-cloak 防止页面加载时出现 vuejs 的变量名*/
+[v-cloak] {
+  display: none;
+}

@@ -35,7 +35,7 @@
 }
 
 .Swipe > div > div {
-    float: left;
+
     position: relative;
 }
 
@@ -5641,5 +5641,8 @@ a.reader__ft-download:before {
     background-image: url(http://image.read.duokan.com/mfsv2/download/fdsc3/p014nDc0lHYW/lDeZ3lL4nmgnmf.png);
 }
 
-
+/*使用 v-cloak 防止页面加载时出现 vuejs 的变量名*/
+[v-cloak] {
+  display: none;
+}
 

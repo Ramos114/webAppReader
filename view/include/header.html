@@ -81,7 +81,7 @@
         <div class="Swipe-tab Swipe-tab_2 f-cb">
             <a href="javascript:" v-on:click="tabSwitch(0)" class="{{ tab_1_class }}"></a>
             <a href="javascript:" v-on:click="tabSwitch(1)" class="{{ tab_2_class }}"></a>
-            <i style="width:{{ index_header_tab_width }}px;transition-duration:{{ header_duration }}s;transform:translate3d({{ header_position }}px,0px,0px)"></i>
+            <i :style="{width:index_header_tab_width+'px',transform:'translate3d('+header_position+'px,0px,0px)'}" style="transition-duration:.5s"></i>
         </div>
         <!-- <em class="header-user" onclick="location.href='/usercenter'"></em> -->
         <em class="header-user" ></em>

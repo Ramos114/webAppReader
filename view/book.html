@@ -198,7 +198,9 @@
 								<div class="u-grade">
 									<span class="read" v-cloak>{{ item.score_count }} 个评价</span>
 								</div>
+<!-- 
 								<p class="price" v-cloak>价格：{{ item.price }}书币／千字</p>
+								 -->
 								<p class="count" v-cloak>
 									字数:{{ item.word_count }}字
 									<span class="u-booktag -serial">连载中</span>
@@ -218,7 +220,7 @@
 						</div>
 						<div class="u-folder">
 							<div class="folder-cnt" v-cloak>
-								{{ item.content }}
+								{{ item.summary }}
 							</div>
 							<div class="folder-tail" v-cloak>
 								<div>最新：{{ item.lastest }}</div>
@@ -239,6 +241,7 @@
 							</div>
 						</div>
 					</section>
+					<!-- 
 					<section class="main-card">
 						<div class="u-title">
 							<h1>作者的其他作品</h1>
@@ -259,8 +262,9 @@
 							</ul>
 						</div>
 					</section>
-
-<!-- 					<section class="main-card">
+					 -->
+<!-- 					
+					<section class="main-card">
 						<div class="u-title">
 							<h1>喜欢本书的人也喜欢</h1>
 						</div>

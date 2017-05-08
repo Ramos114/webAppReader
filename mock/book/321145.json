@@ -1,0 +1,46 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 1421277,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 3,
+		"ad_duration": 5,
+		"score_count": 8,
+		"title": "渣王作妃",
+		"on_sale": true,
+		"comment_count": 0,
+		"click": 2235302,
+		"latest_id": 333,
+		"score": 9.25,
+		"allow_free_read": 1,
+		"rights_id": 10039,
+		"channel": [2],
+		"updated": 1469441443,
+		"finish": false,
+		"tags": ["渣王作妃", "历史穿越", "古代情缘", "古代言情", "穿越架空"],
+		"price": 5,
+		"chapter_count": 334,
+		"authors": "浅浅的心",
+		"categories": [{
+			"category_id": 130000,
+			"label": "穿越架空"
+		}, {
+			"category_id": 130200,
+			"label": "历史穿越"
+		}, {
+			"category_id": 17000000,
+			"label": "古代言情"
+		}, {
+			"category_id": 17000300,
+			"label": "古代情缘"
+		}],
+		"rights": "潇湘书院",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p017io4EIZgP/tK1TkKVduNMK7w.jpg",
+		"summary": "大元王朝湛王爷，有权有财有貌，就是人变态了点！容家九小姐，有貌善良清纯，可惜除了貌其他都是装的！娶她...",
+		"fiction_id": 321145,
+		"outer_id": "5728793e50e3a4517cbed2a8",
+		"latest": "我有心上人了"
+	}
+}

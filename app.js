@@ -168,7 +168,13 @@ app.use(controller.get('/ajax/search',function*(){
 	this.body = yield service.get_search_data(start,end,keyword);
 }));
 
+//目录view
+app.use(controller.get('/chapter',function*(){
+	this.set('Cache-Control','no-cache');
+	this.body = yield render('catolog',{nav:'目录'});
+}));
 
+//获取目录标题列表
 app.use(controller.get('/ajax/chapter', function*(){
 	this.set('Cache-Control', 'no-cache');
 	this.body = service.get_chapter_data();

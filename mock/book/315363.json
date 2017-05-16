@@ -1,0 +1,46 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 794977,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 3,
+		"ad_duration": 5,
+		"score_count": 3,
+		"title": "[空间]田园记事",
+		"on_sale": true,
+		"comment_count": 0,
+		"click": 87615,
+		"latest_id": 272,
+		"score": 5.33,
+		"allow_free_read": 1,
+		"rights_id": 20004,
+		"channel": [2],
+		"updated": 1460682729,
+		"finish": true,
+		"tags": ["原创", "言情", "近代现代", "爱情", "现代言情", "都市言情", "都市生活"],
+		"price": 3,
+		"chapter_count": 273,
+		"authors": "南瓜老妖",
+		"categories": [{
+			"category_id": 100000,
+			"label": "现代言情"
+		}, {
+			"category_id": 100100,
+			"label": "都市言情"
+		}, {
+			"category_id": 18000000,
+			"label": "现代言情"
+		}, {
+			"category_id": 18000100,
+			"label": "都市生活"
+		}],
+		"rights": "晋江文学",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01oAhMYN9z9/I89kL7BdAdCd57.jpg",
+		"summary": "手握玉坠空间，胡晓雯承包果园、养鱼、开办农家乐……\n随着她事业的发展壮大，原本穷困的小山村也逐渐变成...",
+		"fiction_id": 315363,
+		"outer_id": "5652e5ce50e3a4474c5fccc3",
+		"latest": "第 273 章"
+	}
+}

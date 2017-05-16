@@ -1,0 +1,40 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 11458,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 3,
+		"ad_duration": 5,
+		"score_count": 72,
+		"title": "爆笑兵痞",
+		"on_sale": true,
+		"comment_count": 0,
+		"click": 2428215,
+		"latest_id": 535,
+		"score": 7.69,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1469486675,
+		"finish": false,
+		"tags": ["军事", "军旅生涯"],
+		"price": 5,
+		"chapter_count": 536,
+		"authors": "寒雪独立人",
+		"categories": [{
+			"category_id": 7000000,
+			"label": "军事"
+		}, {
+			"category_id": 7000300,
+			"label": "军旅生涯"
+		}],
+		"rights": "阅文集团旗下创世中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01xBFG2D56q/Py0CDUjcBypXwm.jpg",
+		"summary": "当兵理由千百种。\r\n保家卫国？锻炼自己？谋个好出路？\r\n“这些…统统不是！”许言摆着手叫嚣，“老子是...",
+		"fiction_id": 319133,
+		"outer_id": "56fa3e7250e3a463f9de3f0e",
+		"latest": "第5章：大姐，别玩我好吗？"
+	}
+}

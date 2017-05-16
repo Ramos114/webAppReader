@@ -1,0 +1,46 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 2819128,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 3,
+		"ad_duration": 5,
+		"score_count": 375,
+		"title": "绝世神偷：废柴七小姐",
+		"on_sale": true,
+		"comment_count": 7,
+		"click": 7728937,
+		"latest_id": 2760,
+		"score": 9.56,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [2],
+		"updated": 1436111752,
+		"finish": true,
+		"tags": ["架空穿越", "穿越架空", "古代言情", "穿越奇情"],
+		"price": 5,
+		"chapter_count": 2761,
+		"authors": "夜北",
+		"categories": [{
+			"category_id": 130000,
+			"label": "穿越架空"
+		}, {
+			"category_id": 130100,
+			"label": "架空穿越"
+		}, {
+			"category_id": 17000000,
+			"label": "古代言情"
+		}, {
+			"category_id": 17000400,
+			"label": "穿越奇情"
+		}],
+		"rights": "阅文集团旗下云起书院",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/s010/p011NtXsSTau/22VKflL7bv98Zg.jpg",
+		"summary": "她是二十四世纪的神偷，却穿越到了一个白痴废柴的身上，没爹没妈，还要看家族里那些人的脸色。白痴？废物？...",
+		"fiction_id": 295154,
+		"outer_id": "558234c250e3a4738f4c85e2",
+		"latest": "第2761章 番外1"
+	}
+}

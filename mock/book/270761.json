@@ -1,0 +1,46 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 2296692,
+		"owner": 0,
+		"allow_discount": false,
+		"ad_time": 3,
+		"ad_duration": 5,
+		"score_count": 1796,
+		"title": "豪门隐婚：老婆别闹了",
+		"on_sale": true,
+		"comment_count": 29,
+		"click": 23041350,
+		"latest_id": 1132,
+		"score": 8.7,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [2],
+		"updated": 1441517207,
+		"finish": true,
+		"tags": ["总裁世家", "现代言情", "总裁豪门", "豪门世家"],
+		"price": 5,
+		"chapter_count": 1133,
+		"authors": "桃花朵朵香",
+		"categories": [{
+			"category_id": 120000,
+			"label": "总裁世家"
+		}, {
+			"category_id": 120100,
+			"label": "总裁豪门"
+		}, {
+			"category_id": 18000000,
+			"label": "现代言情"
+		}, {
+			"category_id": 18000700,
+			"label": "豪门世家"
+		}],
+		"rights": "阅文集团旗下云起书院",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/s010/p010C4EJ9R8u/UDKjOb6trKfegU.jpg",
+		"summary": "“娶我可好？”\n他微怔，随即薄唇轻启，“好。”\n她傻住。\n“走吧。”",
+		"fiction_id": 270761,
+		"outer_id": "5582341550e3a473924c831b",
+		"latest": "谢谢亲们的一路支持"
+	}
+}

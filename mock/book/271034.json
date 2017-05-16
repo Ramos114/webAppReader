@@ -1,0 +1,46 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 3390174,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 3,
+		"ad_duration": 5,
+		"score_count": 753,
+		"title": "他身上有条龙",
+		"on_sale": true,
+		"comment_count": 11,
+		"click": 11141478,
+		"latest_id": 1631,
+		"score": 8.19,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1469478747,
+		"finish": false,
+		"tags": ["异术超能", "都市异能", "热血都市", "都市"],
+		"price": 5,
+		"chapter_count": 1632,
+		"authors": "黑夜与孤城",
+		"categories": [{
+			"category_id": 20000,
+			"label": "热血都市"
+		}, {
+			"category_id": 20300,
+			"label": "都市异能"
+		}, {
+			"category_id": 5000000,
+			"label": "都市"
+		}, {
+			"category_id": 5000300,
+			"label": "异术超能"
+		}],
+		"rights": "阅文集团旗下创世中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01msV8TYZ9c/HSChhN5IpTR2Fk.jpg",
+		"summary": "小青年三年后回到故乡，他的身上多了一条龙。",
+		"fiction_id": 271034,
+		"outer_id": "5582339350e3a473914c7fd6",
+		"latest": "第1629章 解决"
+	}
+}

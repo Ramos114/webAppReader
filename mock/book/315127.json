@@ -1,0 +1,40 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 2676173,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 3,
+		"ad_duration": 5,
+		"score_count": 188,
+		"title": "特种兵之利刃",
+		"on_sale": true,
+		"comment_count": 0,
+		"click": 3496149,
+		"latest_id": 1299,
+		"score": 8.02,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1469511324,
+		"finish": false,
+		"tags": ["军事", "军旅生涯"],
+		"price": 5,
+		"chapter_count": 1300,
+		"authors": "蝼蚁望天",
+		"categories": [{
+			"category_id": 7000000,
+			"label": "军事"
+		}, {
+			"category_id": 7000300,
+			"label": "军旅生涯"
+		}],
+		"rights": "阅文集团旗下创世中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p015LzkZurDi/4cAU4Px9mJmc6t.jpg",
+		"summary": "这是一个兵进入0824的故事，这是一个只属于热血男儿的故事！",
+		"fiction_id": 315127,
+		"outer_id": "564c4d1350e3a467fc64daa6",
+		"latest": "第1299章 最高任务"
+	}
+}

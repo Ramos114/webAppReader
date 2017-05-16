@@ -1,0 +1,46 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 131477,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 3,
+		"ad_duration": 5,
+		"score_count": 8,
+		"title": "兵王之王",
+		"on_sale": true,
+		"comment_count": 0,
+		"click": 2235302,
+		"latest_id": 13333,
+		"score": 9.25,
+		"allow_free_read": 1,
+		"rights_id": 1310039,
+		"channel": [2],
+		"updated": 131469441443,
+		"finish": false,
+		"tags": ["兵王之王", "军事", "武侠仙侠", "军旅生涯"],
+		"price": 5,
+		"chapter_count": 4,
+		"authors": "Bill",
+		"categories": [{
+			"category_id": 13130000,
+			"label": "兵王之王"
+		}, {
+			"category_id": 13130200,
+			"label": "军事"
+		}, {
+			"category_id": 1317000000,
+			"label": "武侠仙侠"
+		}, {
+			"category_id": 1317000300,
+			"label": "军旅生涯"
+		}],
+		"rights": "人民邮电出版社",
+		"level": 0,
+		"cover": "/static/img/cover/bingwangZhiwang.jpg",
+		"summary": "王海面对佣兵、王牌特工、杀手集团、国际犯罪组织的围追堵截如入无人之地，任何困难险境中只凭一颗子弹就能击毙目标，将金钱、美女收入怀中，他被称之为----狙击天才。",
+		"fiction_id": 10234,
+		"outer_id": "5728793e50e3a4517cbed2a8",
+		"latest": "中国相关"
+	}
+}

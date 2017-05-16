@@ -187,4 +187,4 @@ app.use(controller.get('/ajax/chapter_data', function*(){
 
 
 app.listen(3001);
-console.log('http://127.0.0.1:3001');
+console.log('Service start');

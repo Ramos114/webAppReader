@@ -16,176 +16,6 @@
 			"total": 17,
 			"data": [{
 				"ad": 0,
-				"word_count": 2414241,
-				"owner": 0,
-				"allow_discount": 0,
-				"ad_time": 0,
-				"ad_duration": 0,
-				"score_count": 921,
-				"title": "万古神帝",
-				"on_sale": true,
-				"comment_count": 2,
-				"has_ad": 0,
-				"click": 5477421,
-				"latest_id": 785,
-				"score": 8.23,
-				"allow_free_read": 1,
-				"rights_id": 10080,
-				"channel": [1],
-				"updated": 1469858436,
-				"finish": false,
-				"tags": ["玄幻", "东方玄幻"],
-				"price": 5,
-				"chapter_count": 786,
-				"authors": "飞天鱼",
-				"categories": [{
-					"category_id": 1000000,
-					"label": "玄幻"
-				}, {
-					"category_id": 1000100,
-					"label": "东方玄幻"
-				}],
-				"rights": "阅文集团旗下创世中文网",
-				"level": 0,
-				"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01C8wDEnpYq/B7JH6pJftCzKg1.jpg",
-				"summary": "八百年前，明帝之子张若尘，被他的未婚妻池瑶公主杀死，一代天骄，就此陨落。\n八百年后，张若尘重新活了过...",
-				"fiction_id": 315101,
-				"outer_id": "563abf2e50e3a468385d1d63",
-				"latest": "第七百八十二章 轩龙半圣"
-			}, {
-				"ad": 0,
-				"word_count": 6095441,
-				"owner": 0,
-				"allow_discount": false,
-				"ad_time": 0,
-				"ad_duration": 0,
-				"score_count": 446,
-				"title": "不死武尊",
-				"on_sale": true,
-				"comment_count": 10,
-				"has_ad": 0,
-				"click": 6618105,
-				"latest_id": 2003,
-				"score": 8.04,
-				"allow_free_read": 1,
-				"rights_id": 10080,
-				"channel": [1],
-				"updated": 1469840434,
-				"finish": false,
-				"tags": ["坚毅", "励志", "热血", "玄幻", "东方玄幻", "玄幻奇幻"],
-				"price": 0,
-				"chapter_count": 2004,
-				"authors": "妖月夜",
-				"categories": [{
-					"category_id": 10000,
-					"label": "玄幻奇幻"
-				}, {
-					"category_id": 10100,
-					"label": "东方玄幻"
-				}, {
-					"category_id": 1000000,
-					"label": "玄幻"
-				}, {
-					"category_id": 1000100,
-					"label": "东方玄幻"
-				}],
-				"rights": "阅文集团旗下创世中文网",
-				"level": 0,
-				"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01CKgLKLTLZ/7sjhqQ8BUodHqI.jpg",
-				"summary": "神殒大陆，这是一个万族林立的世界，当中有着天赋异禀的灵体，也有着古老的神体，有着神通广大的神之后裔，...",
-				"fiction_id": 270845,
-				"outer_id": "558233c050e3a4738f4c8239",
-				"latest": "第二千零四章 身殒道消"
-			}, {
-				"ad": 0,
-				"word_count": 1429815,
-				"owner": 0,
-				"allow_discount": 0,
-				"ad_time": 0,
-				"ad_duration": 0,
-				"score_count": 117,
-				"title": "超级姐夫",
-				"on_sale": true,
-				"comment_count": 0,
-				"has_ad": 0,
-				"click": 13798076,
-				"latest_id": 628,
-				"score": 8.0,
-				"allow_free_read": 1,
-				"rights_id": 10080,
-				"channel": [1],
-				"updated": 1435599680,
-				"finish": true,
-				"tags": ["现代言情", "爱情婚姻", "都市言情", "都市"],
-				"price": 5,
-				"chapter_count": 629,
-				"authors": "酒天",
-				"categories": [{
-					"category_id": 100000,
-					"label": "现代言情"
-				}, {
-					"category_id": 100100,
-					"label": "都市言情"
-				}, {
-					"category_id": 5000000,
-					"label": "都市"
-				}, {
-					"category_id": 5000200,
-					"label": "爱情婚姻"
-				}],
-				"rights": "阅文集团旗下创世中文网",
-				"level": 0,
-				"cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01685Z6AqDQ/qbgbHnvaYxJXMA.jpg",
-				"summary": "一个姐夫，众多小姨子！",
-				"fiction_id": 302086,
-				"outer_id": "5582332950e3a473924c7fb8",
-				"latest": "629 人生如梦（求订阅，月票，打赏）"
-			}, {
-				"ad": 0,
-				"word_count": 6938928,
-				"owner": 0,
-				"allow_discount": 0,
-				"ad_time": 0,
-				"ad_duration": 0,
-				"score_count": 1135,
-				"title": "极品全能学生",
-				"on_sale": true,
-				"comment_count": 13,
-				"has_ad": 0,
-				"click": 16059070,
-				"latest_id": 3381,
-				"score": 8.17,
-				"allow_free_read": 1,
-				"rights_id": 10080,
-				"channel": [1],
-				"updated": 1469862087,
-				"finish": false,
-				"tags": ["都市情缘", "都市生活", "热血都市", "都市"],
-				"price": 5,
-				"chapter_count": 3382,
-				"authors": "花都大少",
-				"categories": [{
-					"category_id": 20000,
-					"label": "热血都市"
-				}, {
-					"category_id": 20100,
-					"label": "都市情缘"
-				}, {
-					"category_id": 5000000,
-					"label": "都市"
-				}, {
-					"category_id": 5000100,
-					"label": "都市生活"
-				}],
-				"rights": "阅文集团旗下创世中文网",
-				"level": 0,
-				"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01zZoTaxYN0/4ixJUv9wWCmZ7a.jpg",
-				"summary": "一场车祸让夏天获得了透视功能，从此他踏上了一条与众不同的道路。",
-				"fiction_id": 270913,
-				"outer_id": "558234d650e3a4738e4c8673",
-				"latest": "第3471章 终于恢复了"
-			}, {
-				"ad": 0,
 				"word_count": 7620674,
 				"owner": 0,
 				"allow_discount": 0,
@@ -228,6 +58,176 @@
 				"fiction_id": 270874,
 				"outer_id": "558233db50e3a4738f4c82a3",
 				"latest": "第3684章：刀疤反击"
+			}, {
+				"ad": 0,
+				"word_count": 241424,
+				"owner": 0,
+				"allow_discount": 0,
+				"ad_time": 0,
+				"ad_duration": 0,
+				"score_count": 921,
+				"title": "万古神帝",
+				"on_sale": true,
+				"comment_count": 2,
+				"has_ad": 0,
+				"click": 5477421,
+				"latest_id": 785,
+				"score": 8.23,
+				"allow_free_read": 1,
+				"rights_id": 10080,
+				"channel": [1],
+				"updated": 1469858436,
+				"finish": false,
+				"tags": ["玄幻", "东方玄幻"],
+				"price": 5,
+				"chapter_count": 786,
+				"authors": "飞天鱼",
+				"categories": [{
+					"category_id": 1000000,
+					"label": "玄幻"
+				}, {
+					"category_id": 1000100,
+					"label": "东方玄幻"
+				}],
+				"rights": "阅文集团旗下创世中文网",
+				"level": 0,
+				"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01C8wDEnpYq/B7JH6pJftCzKg1.jpg",
+				"summary": "八百年前，明帝之子张若尘，被他的未婚妻池瑶公主杀死，一代天骄，就此陨落。\n八百年后，张若尘重新活了过...",
+				"fiction_id": 315101,
+				"outer_id": "563abf2e50e3a468385d1d63",
+				"latest": "第八十二章 轩龙半圣"
+			}, {
+				"ad": 0,
+				"word_count": 609541,
+				"owner": 0,
+				"allow_discount": false,
+				"ad_time": 0,
+				"ad_duration": 0,
+				"score_count": 446,
+				"title": "不死武尊",
+				"on_sale": true,
+				"comment_count": 10,
+				"has_ad": 0,
+				"click": 6618105,
+				"latest_id": 2003,
+				"score": 8.04,
+				"allow_free_read": 1,
+				"rights_id": 10080,
+				"channel": [1],
+				"updated": 1469840434,
+				"finish": false,
+				"tags": ["坚毅", "励志", "热血", "玄幻", "东方玄幻", "玄幻奇幻"],
+				"price": 0,
+				"chapter_count": 2004,
+				"authors": "妖月夜",
+				"categories": [{
+					"category_id": 10000,
+					"label": "玄幻奇幻"
+				}, {
+					"category_id": 10100,
+					"label": "东方玄幻"
+				}, {
+					"category_id": 1000000,
+					"label": "玄幻"
+				}, {
+					"category_id": 1000100,
+					"label": "东方玄幻"
+				}],
+				"rights": "阅文集团旗下创世中文网",
+				"level": 0,
+				"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01CKgLKLTLZ/7sjhqQ8BUodHqI.jpg",
+				"summary": "神殒大陆，这是一个万族林立的世界，当中有着天赋异禀的灵体，也有着古老的神体，有着神通广大的神之后裔，...",
+				"fiction_id": 270845,
+				"outer_id": "558233c050e3a4738f4c8239",
+				"latest": "第二十四章 身殒道消"
+			}, {
+				"ad": 0,
+				"word_count": 693828,
+				"owner": 0,
+				"allow_discount": 0,
+				"ad_time": 0,
+				"ad_duration": 0,
+				"score_count": 1135,
+				"title": "极品全能学生",
+				"on_sale": true,
+				"comment_count": 13,
+				"has_ad": 0,
+				"click": 16059070,
+				"latest_id": 3381,
+				"score": 8.17,
+				"allow_free_read": 1,
+				"rights_id": 10080,
+				"channel": [1],
+				"updated": 1469862087,
+				"finish": false,
+				"tags": ["都市情缘", "都市生活", "热血都市", "都市"],
+				"price": 5,
+				"chapter_count": 3382,
+				"authors": "花都大少",
+				"categories": [{
+					"category_id": 20000,
+					"label": "热血都市"
+				}, {
+					"category_id": 20100,
+					"label": "都市情缘"
+				}, {
+					"category_id": 5000000,
+					"label": "都市"
+				}, {
+					"category_id": 5000100,
+					"label": "都市生活"
+				}],
+				"rights": "阅文集团旗下创世中文网",
+				"level": 0,
+				"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01zZoTaxYN0/4ixJUv9wWCmZ7a.jpg",
+				"summary": "一场车祸让夏天获得了透视功能，从此他踏上了一条与众不同的道路。",
+				"fiction_id": 270913,
+				"outer_id": "558234d650e3a4738e4c8673",
+				"latest": "第31章 终于恢复了"
+			}, {
+				"ad": 0,
+				"word_count": 142985,
+				"owner": 0,
+				"allow_discount": 0,
+				"ad_time": 0,
+				"ad_duration": 0,
+				"score_count": 117,
+				"title": "超级姐夫",
+				"on_sale": true,
+				"comment_count": 0,
+				"has_ad": 0,
+				"click": 13798076,
+				"latest_id": 628,
+				"score": 8.0,
+				"allow_free_read": 1,
+				"rights_id": 10080,
+				"channel": [1],
+				"updated": 1435599680,
+				"finish": true,
+				"tags": ["现代言情", "爱情婚姻", "都市言情", "都市"],
+				"price": 5,
+				"chapter_count": 629,
+				"authors": "酒天",
+				"categories": [{
+					"category_id": 100000,
+					"label": "现代言情"
+				}, {
+					"category_id": 100100,
+					"label": "都市言情"
+				}, {
+					"category_id": 5000000,
+					"label": "都市"
+				}, {
+					"category_id": 5000200,
+					"label": "爱情婚姻"
+				}],
+				"rights": "阅文集团旗下创世中文网",
+				"level": 0,
+				"cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01685Z6AqDQ/qbgbHnvaYxJXMA.jpg",
+				"summary": "姐夫的魅力，男人味十足！",
+				"fiction_id": 302086,
+				"outer_id": "5582332950e3a473924c7fb8",
+				"latest": "29 人生如梦（求订阅，月票，打赏）"
 			}]
 		},
 		"size": 0
@@ -245,7 +245,7 @@
 			"total": 16,
 			"data": [{
 				"ad": 0,
-				"word_count": 3994568,
+				"word_count": 399568,
 				"owner": 0,
 				"allow_discount": false,
 				"ad_time": 0,
@@ -286,7 +286,7 @@
 				"summary": "我出生没多久就遇到了五鬼抬轿，差点把小命送掉，\n读大学的时候又遇到鬼婴借腹，人生从此改变。\n不久之后...",
 				"fiction_id": 289405,
 				"outer_id": "5582344350e3a473914c8278",
-				"latest": "第1939章"
+				"latest": "第19章"
 			}, {
 				"ad": 0,
 				"word_count": 1852396,
@@ -503,7 +503,7 @@
 				"summary": "萧晨回归都市后成为绝品美女总裁的贴身保镖。从此火爆警花、豪门闺秀、冷艳杀手、极品护士、御姐老师、气质...",
 				"fiction_id": 322209,
 				"outer_id": "5755f99f50e3a412a1a48f95",
-				"latest": "第246章 破案（1）"
+				"latest": "第26章 破案（1）"
 			}, {
 				"ad": 0,
 				"word_count": 259670,
@@ -717,7 +717,7 @@
 				"latest": "第五十一章 终章"
 			}, {
 				"ad": 0,
-				"word_count": 1472009,
+				"word_count": 147009,
 				"owner": 0,
 				"allow_discount": false,
 				"ad_time": 0,
@@ -758,7 +758,7 @@
 				"summary": "一位草根医生，但是在国际上却拥有着绝对的权威！",
 				"fiction_id": 42227,
 				"outer_id": "5379c0490ea49711bc2c6276",
-				"latest": "第553章腾飞中的华夏（大结局）"
+				"latest": "第53章腾飞中的华夏（大结局）"
 			}, {
 				"ad": 0,
 				"word_count": 9813662,

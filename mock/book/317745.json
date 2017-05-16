@@ -1,0 +1,47 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 2283136,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 12,
+		"title": "早安,检察官娇妻",
+		"on_sale": true,
+		"comment_count": 0,
+		"has_ad": 0,
+		"click": 375786,
+		"latest_id": 385,
+		"score": 8.83,
+		"allow_free_read": 1,
+		"rights_id": 10039,
+		"channel": [2],
+		"updated": 1453260559,
+		"finish": true,
+		"tags": ["早安", "检察官娇妻", "现代言情", "都市言情", "都市生活"],
+		"price": 5,
+		"chapter_count": 386,
+		"authors": "月七儿",
+		"categories": [{
+			"category_id": 100000,
+			"label": "现代言情"
+		}, {
+			"category_id": 100100,
+			"label": "都市言情"
+		}, {
+			"category_id": 18000000,
+			"label": "现代言情"
+		}, {
+			"category_id": 18000100,
+			"label": "都市生活"
+		}],
+		"rights": "潇湘书院",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01yzAORFOZx/sQRvshlEKyiiIg.jpg",
+		"summary": "当她看着心爱的人对着妹妹求婚时，她黯然旅行，一场不自量力的见义勇为，她成为赌桌成为赌注，他一掷百万，...",
+		"fiction_id": 317745,
+		"outer_id": "569e9d5150e3a468e9b8ebdc",
+		"latest": "即便你在我眼前，我却还是想你。（终）"
+	}
+}

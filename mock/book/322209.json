@@ -1,0 +1,42 @@
+{
+	"item": {
+
+		"ad": 0,
+		"word_count": 519530,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 3,
+		"title": "我的绝品美女总裁老婆",
+		"on_sale": true,
+		"comment_count": 0,
+		"has_ad": 0,
+		"click": 587835,
+		"latest_id": 245,
+		"score": 5.33,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1469604163,
+		"finish": false,
+		"tags": ["都市生活", "都市"],
+		"price": 5,
+		"chapter_count": 246,
+		"authors": "萧正龙",
+		"categories": [{
+			"category_id": 5000000,
+			"label": "都市"
+		}, {
+			"category_id": 5000100,
+			"label": "都市生活"
+		}],
+		"rights": "阅文集团旗下创世中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01aycmyqlAB/RXCD9dEcgPAXNL.jpg",
+		"summary": "萧晨回归都市后成为绝品美女总裁的贴身保镖。从此火爆警花、豪门闺秀、冷艳杀手、极品护士、御姐老师、气质...",
+		"fiction_id": 322209,
+		"outer_id": "5755f99f50e3a412a1a48f95",
+		"latest": "第26章 破案（1）"
+	}
+}

@@ -1,0 +1,48 @@
+{
+	"item": {
+
+		"ad": 0,
+		"word_count": 413453,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 8,
+		"title": "逆女成凰，废材九公主",
+		"on_sale": true,
+		"comment_count": 0,
+		"has_ad": 0,
+		"click": 121743,
+		"latest_id": 189,
+		"score": 9.0,
+		"allow_free_read": 1,
+		"rights_id": 20002,
+		"channel": [2],
+		"updated": 1411435237,
+		"finish": true,
+		"tags": ["古典架空", "穿越奇情", "架空穿越", "古代言情", "穿越架空"],
+		"price": 3,
+		"chapter_count": 190,
+		"authors": "云天恨",
+		"categories": [{
+			"category_id": 130000,
+			"label": "穿越架空"
+		}, {
+			"category_id": 130100,
+			"label": "架空穿越"
+		}, {
+			"category_id": 17000000,
+			"label": "古代言情"
+		}, {
+			"category_id": 17000400,
+			"label": "穿越奇情"
+		}],
+		"rights": "红袖",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01uAnfA0hS1/k8mReqHp2AARfP.jpg",
+		"summary": "夜九凰，光希帝国唯一的公主，七岁魂力测试被评定为无丝毫魂力，注定一生废材，瞬间便从宠儿堕入地狱。\n一...",
+		"fiction_id": 30658,
+		"outer_id": "52d74e260ea49726724f862a",
+		"latest": "【番外14】：美满幸福生活"
+	}
+}

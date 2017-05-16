@@ -1,0 +1,47 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 399568,
+		"owner": 0,
+		"allow_discount": false,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 724,
+		"title": "我捉鬼的那些年",
+		"on_sale": true,
+		"comment_count": 18,
+		"has_ad": 0,
+		"click": 11098152,
+		"latest_id": 1937,
+		"score": 8.35,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1467176459,
+		"finish": true,
+		"tags": ["灵异悬疑", "灵异奇谈", "灵异神怪", "灵异"],
+		"price": 5,
+		"chapter_count": 1938,
+		"authors": "魏某人",
+		"categories": [{
+			"category_id": 50000,
+			"label": "灵异悬疑"
+		}, {
+			"category_id": 50300,
+			"label": "灵异神怪"
+		}, {
+			"category_id": 8000000,
+			"label": "灵异"
+		}, {
+			"category_id": 8000400,
+			"label": "灵异奇谈"
+		}],
+		"rights": "阅文集团旗下创世中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01PWSycwvjd/zeDAuyxVAB21Ji.jpg",
+		"summary": "我出生没多久就遇到了五鬼抬轿，差点把小命送掉，\n读大学的时候又遇到鬼婴借腹，人生从此改变。\n不久之后...",
+		"fiction_id": 289405,
+		"outer_id": "5582344350e3a473914c8278",
+		"latest": "第19章"
+	}
+}

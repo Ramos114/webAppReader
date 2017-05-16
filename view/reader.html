@@ -467,7 +467,7 @@
 				<div class="top-nav-warp">
 					<div class="icon-back"></div>
 					<div class="nav-title" id="nav_title">
-						返回书架
+						返回
 					</div>
 				</div>
 			</div>
@@ -564,6 +564,7 @@
 							cache : true,
 							callback : "duokan_fiction_chapter",
 							success : function(result) {
+								//debugger;//调试是否解密成功
 								var data = $.base64.decode(result);
 								var json = decodeURIComponent(escape(data));
 								callback(json);
@@ -638,7 +639,7 @@
 						$.get("/ajax/chapter", function(data) {
 							if (data.result == 0) {
 								Title = data.title;
-								$('#nav_title').html('返回书架');
+								$('#nav_title').html('返回');
 								window.ChaptersData = data.chapters;
 								window.chapter_data = data.chapters;
 								for (var i = 0; i < data.chapters.length; i++) {
@@ -667,7 +668,7 @@
 					"title" : data.chapters[i].title
 					})
 					}
-
+					//debugger;//调试
 					callback && callback();
 					}, 'json');
 					};
@@ -709,7 +710,8 @@
 				function RenderBaseFrame(container) {
 					function parseChapterData(jsonData) {
 						var jsonObj = JSON.parse(jsonData);
-						var html = "<h4>" + jsonObj.t + "</h4>";
+						//var html = "<h4>" + jsonObj.t + "</h4>";
+						var html = "<h4>" + "</h4>";
 						for (var i = 0; i < jsonObj.p.length; i++) {
 							html += "<p>" + jsonObj.p[i] + "</p>";
 						}
@@ -985,15 +987,17 @@
 							}
 						});
 
-						//返回首页
+						//返回
 						Dom.nav_title.click(function() {
-							location.href = '/';
+							location.href = 'javascript:history.back()';
 						});
 
+						//返回首页
 						$('.icon-back').click(function() {
 							location.href = '/';
 						});
 
+						//跳转目录
 						$('#menu_button').click(function() {
 							location.href = '/chapter';//跳转到目录页面
 						});

@@ -1,0 +1,47 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 835637,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 26,
+		"title": "重生之变天",
+		"on_sale": true,
+		"comment_count": 0,
+		"has_ad": 0,
+		"click": 9613336,
+		"latest_id": 186,
+		"score": 7.53,
+		"allow_free_read": 1,
+		"rights_id": 20004,
+		"channel": [2],
+		"updated": 1426300107,
+		"finish": true,
+		"tags": ["原创", "言情", "爱情", "古典架空", "架空历史", "古代言情"],
+		"price": 3,
+		"chapter_count": 187,
+		"authors": "决绝",
+		"categories": [{
+			"category_id": 110000,
+			"label": "古代言情"
+		}, {
+			"category_id": 110100,
+			"label": "架空历史"
+		}, {
+			"category_id": 17000000,
+			"label": "古代言情"
+		}, {
+			"category_id": 17000200,
+			"label": "古典架空"
+		}],
+		"rights": "晋江文学",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01HRnQuOjiG/KhLgJZJ4erR4e7.jpg",
+		"summary": "父亲厌恶，表哥背叛，视若亲母的姨母拿她当枪使让她背上了一条人命，那位九五之尊还因为一个宝藏毁了她最后...",
+		"fiction_id": 33537,
+		"outer_id": "52d8eb410ea4973df0bf1c85",
+		"latest": "番外"
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 706196,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 4,
+		"title": "驭蛇狂妃【完】",
+		"on_sale": true,
+		"comment_count": 0,
+		"has_ad": 0,
+		"click": 276575,
+		"latest_id": 362,
+		"score": 8.0,
+		"allow_free_read": 1,
+		"rights_id": 10020,
+		"channel": [2],
+		"updated": 1465868308,
+		"finish": true,
+		"tags": ["穿越", "王妃", "王爷", "狂妄", "古代言情", "奇幻架空", "女尊王朝", "幻想奇缘"],
+		"price": 3,
+		"chapter_count": 363,
+		"authors": "阿梅儿",
+		"categories": [{
+			"category_id": 150000,
+			"label": "幻想奇缘"
+		}, {
+			"category_id": 150100,
+			"label": "奇幻架空"
+		}, {
+			"category_id": 17000000,
+			"label": "古代言情"
+		}, {
+			"category_id": 17000100,
+			"label": "女尊王朝"
+		}],
+		"rights": "小说阅读网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01kmiFH1Adh/S4CUkeQnIPfSOP.jpg",
+		"summary": "【已完结】“凤家嫡女凤千魅，丑傻花痴脑残废；心系轩王日日缠，天鹅哪与蛤蟆配。”这是天运皇朝京都无人不...",
+		"fiction_id": 33866,
+		"outer_id": "52e0c8010ea49753e84e6722",
+		"latest": "（空）"
+	}
+}

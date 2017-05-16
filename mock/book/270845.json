@@ -1,0 +1,47 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 609541,
+		"owner": 0,
+		"allow_discount": false,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 446,
+		"title": "不死武尊",
+		"on_sale": true,
+		"comment_count": 10,
+		"has_ad": 0,
+		"click": 6618105,
+		"latest_id": 2003,
+		"score": 8.04,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1469840434,
+		"finish": false,
+		"tags": ["坚毅", "励志", "热血", "玄幻", "东方玄幻", "玄幻奇幻"],
+		"price": 0,
+		"chapter_count": 2004,
+		"authors": "妖月夜",
+		"categories": [{
+			"category_id": 10000,
+			"label": "玄幻奇幻"
+		}, {
+			"category_id": 10100,
+			"label": "东方玄幻"
+		}, {
+			"category_id": 1000000,
+			"label": "玄幻"
+		}, {
+			"category_id": 1000100,
+			"label": "东方玄幻"
+		}],
+		"rights": "阅文集团旗下创世中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01CKgLKLTLZ/7sjhqQ8BUodHqI.jpg",
+		"summary": "神殒大陆，这是一个万族林立的世界，当中有着天赋异禀的灵体，也有着古老的神体，有着神通广大的神之后裔，...",
+		"fiction_id": 270845,
+		"outer_id": "558233c050e3a4738f4c8239",
+		"latest": "第二十四章 身殒道消"
+	}
+}

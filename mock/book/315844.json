@@ -1,0 +1,47 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 819149,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 108,
+		"title": "高冷慕少惹不起",
+		"on_sale": true,
+		"comment_count": 0,
+		"has_ad": 0,
+		"click": 2233078,
+		"latest_id": 326,
+		"score": 6.64,
+		"allow_free_read": 1,
+		"rights_id": 10020,
+		"channel": [2],
+		"updated": 1465877003,
+		"finish": true,
+		"tags": ["总裁", "豪门", "隐婚", "总裁世家", "总裁豪门", "现代言情", "豪门世家"],
+		"price": 3,
+		"chapter_count": 327,
+		"authors": "苡沫儿",
+		"categories": [{
+			"category_id": 120000,
+			"label": "总裁世家"
+		}, {
+			"category_id": 120100,
+			"label": "总裁豪门"
+		}, {
+			"category_id": 18000000,
+			"label": "现代言情"
+		}, {
+			"category_id": 18000700,
+			"label": "豪门世家"
+		}],
+		"rights": "小说阅读网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01KhAax9S2T/EyDbQvNWbmAZrA.jpg",
+		"summary": "他是钱权倾于一身的慕家二少，手中握着整个A市的经济命脉，是矜贵不可冒犯的存在，然而，在酒店临时换个裤...",
+		"fiction_id": 315844,
+		"outer_id": "567a673c50e3a41b2e087bd2",
+		"latest": "第25章 少将，有人在看大嫂"
+	}
+}

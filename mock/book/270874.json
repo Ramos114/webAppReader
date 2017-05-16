@@ -1,0 +1,47 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 7620674,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 774,
+		"title": "最强兵王",
+		"on_sale": true,
+		"comment_count": 21,
+		"has_ad": 0,
+		"click": 11979394,
+		"latest_id": 3683,
+		"score": 7.99,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1469847626,
+		"finish": false,
+		"tags": ["军事", "军事战争", "战争幻想"],
+		"price": 5,
+		"chapter_count": 3684,
+		"authors": "丛林狼",
+		"categories": [{
+			"category_id": 80000,
+			"label": "军事战争"
+		}, {
+			"category_id": 80100,
+			"label": "战争幻想"
+		}, {
+			"category_id": 7000000,
+			"label": "军事"
+		}, {
+			"category_id": 7000100,
+			"label": "战争幻想"
+		}],
+		"rights": "阅文集团旗下创世中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01fqrPU6CFW/ZRdnA4TOeu5KOx.jpg",
+		"summary": "最强兵王，虎视群雄，为国而战，为民出鞘，只有站死，绝不跪生，无怨无悔！\n这是一本男人的书！\n这是一部...",
+		"fiction_id": 270874,
+		"outer_id": "558233db50e3a4738f4c82a3",
+		"latest": "第3684章：刀疤反击"
+	}
+}

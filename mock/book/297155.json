@@ -1,0 +1,47 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 277862,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 23,
+		"title": "拒染豪门：帝少的首席逃妻",
+		"on_sale": true,
+		"comment_count": 0,
+		"has_ad": 0,
+		"click": 1645797,
+		"latest_id": 2722,
+		"score": 8.26,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [2],
+		"updated": 1469819063,
+		"finish": false,
+		"tags": ["总裁世家", "现代言情", "总裁豪门", "豪门世家"],
+		"price": 5,
+		"chapter_count": 2723,
+		"authors": "风和灿灿",
+		"categories": [{
+			"category_id": 120000,
+			"label": "总裁世家"
+		}, {
+			"category_id": 120100,
+			"label": "总裁豪门"
+		}, {
+			"category_id": 18000000,
+			"label": "现代言情"
+		}, {
+			"category_id": 18000700,
+			"label": "豪门世家"
+		}],
+		"rights": "阅文集团旗下云起书院",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01d7JF4lR2I/DnzUEe0m2STcT7.jpg",
+		"summary": "第一次出国就惨遇飞机失联，醒来后她从一个阳光少女变成了少夫人！他是暗夜黑帝，冷酷无情，却初次见面就将...",
+		"fiction_id": 297155,
+		"outer_id": "5582341750e3a473914c81d3",
+		"latest": "第30 尾声69"
+	}
+}

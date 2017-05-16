@@ -45,7 +45,7 @@ exports.get_male_data = function(channelId) {
 }
 
 exports.get_female_data = function(channelId) {
-	var content = fs.readFileSync('./mock/channel/male.json', 'utf-8');
+	var content = fs.readFileSync('./mock/channel/female.json', 'utf-8');
 	return content;
 }
 

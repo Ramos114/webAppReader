@@ -1,0 +1,47 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 478329,
+		"owner": 0,
+		"allow_discount": false,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 46,
+		"title": "黑道世家的半路新娘",
+		"on_sale": true,
+		"comment_count": 0,
+		"has_ad": 0,
+		"click": 366137,
+		"latest_id": 122,
+		"score": 7.82,
+		"allow_free_read": 1,
+		"rights_id": 10039,
+		"channel": [2],
+		"updated": 1436959717,
+		"finish": true,
+		"tags": ["黑道世家的半路新娘", "现代言情", "都市言情", "都市生活"],
+		"price": 5,
+		"chapter_count": 123,
+		"authors": "古默",
+		"categories": [{
+			"category_id": 100000,
+			"label": "现代言情"
+		}, {
+			"category_id": 100100,
+			"label": "都市言情"
+		}, {
+			"category_id": 18000000,
+			"label": "现代言情"
+		}, {
+			"category_id": 18000100,
+			"label": "都市生活"
+		}],
+		"rights": "潇湘书院",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/s010/p019eWXG2xhv/1yI2GSRkc1TQpP.jpg",
+		"summary": "一个请求，她成为临时伴娘；一句威胁，她升为半路新娘；一声誓言，她陷入黑道世家；从此，风云突变，难回首...",
+		"fiction_id": 24491,
+		"outer_id": "52bd3d8725ccbf2f060e0f6e",
+		"latest": "我的心里只有你没有他"
+	}
+}

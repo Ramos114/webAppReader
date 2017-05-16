@@ -1,0 +1,47 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 1966031,
+		"owner": 0,
+		"allow_discount": false,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 241,
+		"title": "末世之超市系统",
+		"on_sale": true,
+		"comment_count": 30,
+		"has_ad": 0,
+		"click": 1825179,
+		"latest_id": 605,
+		"score": 7.99,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1434980141,
+		"finish": true,
+		"tags": ["体育竞技", "科幻", "末世危机", "游戏竞技"],
+		"price": 5,
+		"chapter_count": 606,
+		"authors": "天天吃面",
+		"categories": [{
+			"category_id": 40000,
+			"label": "游戏竞技"
+		}, {
+			"category_id": 40400,
+			"label": "体育竞技"
+		}, {
+			"category_id": 9000000,
+			"label": "科幻"
+		}, {
+			"category_id": 9000700,
+			"label": "末世危机"
+		}],
+		"rights": "阅文集团旗下创世中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/s010/p016KcEY5N1G/qWHg0rv0dUm212.jpg",
+		"summary": "末世危机的爆发怕什么？老子有超市系统！",
+		"fiction_id": 30050,
+		"outer_id": "52cb6ccc25ccbf4149cffff6",
+		"latest": "第五十一章 终章"
+	}
+}

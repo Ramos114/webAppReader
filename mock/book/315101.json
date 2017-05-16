@@ -1,0 +1,42 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 241424,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 0,
+		"ad_duration": 0,
+		"score_count": 921,
+		"title": "万古神帝",
+		"on_sale": true,
+		"comment_count": 2,
+		"has_ad": 0,
+		"click": 5477421,
+		"latest_id": 785,
+		"score": 8.23,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1469858436,
+		"finish": false,
+		"tags": ["玄幻", "东方玄幻"],
+		"price": 5,
+		"chapter_count": 786,
+		"authors": "飞天鱼",
+		"categories": [{
+			"category_id": 1000000,
+			"label": "玄幻"
+		}, {
+			"category_id": 1000100,
+			"label": "东方玄幻"
+		}],
+		"rights": "阅文集团旗下创世中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01C8wDEnpYq/B7JH6pJftCzKg1.jpg",
+		"summary": "八百年前，明帝之子张若尘，被他的未婚妻池瑶公主杀死，一代天骄，就此陨落。\n八百年后，张若尘重新活了过...",
+		"fiction_id": 315101,
+		"outer_id": "563abf2e50e3a468385d1d63",
+		"latest": "第八十二章 轩龙半圣"
+
+	}
+}

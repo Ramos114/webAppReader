@@ -1,0 +1,40 @@
+{
+	"item": {
+		"ad": 0,
+		"word_count": 184008,
+		"owner": 0,
+		"allow_discount": 0,
+		"ad_time": 3,
+		"ad_duration": 5,
+		"score_count": 37,
+		"title": "我的总裁老婆",
+		"on_sale": true,
+		"comment_count": 0,
+		"click": 1509006,
+		"latest_id": 882,
+		"score": 6.05,
+		"allow_free_read": 1,
+		"rights_id": 10080,
+		"channel": [1],
+		"updated": 1469506966,
+		"finish": false,
+		"tags": ["异术超能", "都市"],
+		"price": 5,
+		"chapter_count": 883,
+		"authors": "超级爱钱货",
+		"categories": [{
+			"category_id": 5000000,
+			"label": "都市"
+		}, {
+			"category_id": 5000300,
+			"label": "异术超能"
+		}],
+		"rights": "阅文集团旗下创世中文网",
+		"level": 0,
+		"cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01czbCB2bFr/g001JJ6NbPk7CM.jpg",
+		"summary": "【最火爆新书】\r\n我叫刘晨，喜欢女人，更喜欢征服女人，什么霸道女总裁，清纯妹子，火辣秘书，风流女大佬...",
+		"fiction_id": 321942,
+		"outer_id": "574d605f50e3a408f6ee6246",
+		"latest": "第17章 南乐从的崇拜者"
+	}
+}

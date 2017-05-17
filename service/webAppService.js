@@ -90,3 +90,39 @@ exports.get_search_data = function(start, end, keyword) {
 		req_obj.end();
 	}
 }
+
+//跨域请求
+exports.findPageBook = function(key,start,end){
+    return function(cb){
+
+        var http = require('http');
+        var qs = require('querystring');
+        var data = {
+            key:key,
+            start:start,
+            end:end
+        };
+
+        /*请求http://10.20.192.80:8080/reader/BookAction!findPageBook.action*/
+        var content = qs.stringify(data);
+        var http_request = {
+            hostname:'10.20.192.80',
+            port: 8080,
+            path:'/reader/BookAction!findPageBook.action?' + content,
+            method: 'GET'
+        };
+
+        var req = http.request(http_request,function(response){
+            var body = '';
+            response.setEncoding('utf-8');
+            response.on('data',function(chunk){
+                body += chunk;
+            });
+            response.on('end',function(){
+                cb(null,body);
+            });
+        });
+
+        req.end();
+    }
+}
